@@ -4,3 +4,5 @@ arquivo
 aaaaaaaaaaaa
 
 Implementando a func x - primeira parte
+
+enviando a funcionalidade B Implementanda
